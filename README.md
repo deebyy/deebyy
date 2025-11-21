@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deebyy
-- 👀 I’m interested in Software Engineering and Data Analytics
+- 👀 I’m a Software Engineer, Lead @Axnos
 - 🌱 I’m currently working with Angular and exploring data analytics in my free time.
 - 📫 How to reach me ... you can reach me on discord: thisisdeeb | instagram: thisisdeeb
 - 😄 Pronouns: He/him
