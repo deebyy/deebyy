@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deebyy
 - 👀 I’m a Software Engineer, building a lil startup called @Axnos
-- 🌱 I’m currently working with Angula & .Net 
+- 🌱 I’m currently working with Angular & .Net 
 - 📫 How to reach me ... you can reach me on discord: thisisdeeb | instagram: thisisdeeb
 - 😄 Pronouns: He/him
 
